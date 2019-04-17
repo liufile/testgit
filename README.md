@@ -1,4 +1,4 @@
-##项目使用说明
+## 项目使用说明
 
-*张三
-*test@test.com
+* 张三
+* test@test.com
